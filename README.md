@@ -1,5 +1,8 @@
-# practice
-
 Academically Trained Aural Piano Tuner and Technician
-# 钢琴调律音高计算器练习
-当前频率：435Hz，目标频率：440Hz，偏差音分为：-19.7 cents
+Alex Chen delivers the finest aural tuning, bringing the ultimate artistry and handcrafted precision to your piano
+
+Beyond Mathematics: The Soul of Aural Tuning
+"If aural tuning exists to please the human ear, then machine tuning is there to gratify mathematics." This philosophy guides every movement of my tuning lever. In an age of digital convenience, I believe that for the professionally trained musician, true aural tuning is not a luxury—it is a vital necessity.
+For those who have spent a lifetime refining their touch and ear, a piano is more than a machine; it is a living entity of wood and wire. Aural tuning is an intimate observation of sound, a pursuit of harmony that transcends data. While a machine follows rigid numbers, the aural tuner follows perception. One satisfies a mathematical requirement; the other answers the human ear’s expectation.
+Today’s technology has made the craft more accessible, yet many enter the field relying solely on electronic devices. In doing so, they often bypass the most essential stage of a tuner's journey: the years of rigorous, systematic training required to truly understand the complex interplay of overtones and the natural resonance of wood. Without this foundation, one may achieve a 'calculated' pitch, but the essence of tuning—the mastery of string tension balance and the nuanced harmonic relationships that make a piano feel alive—remains out of reach.
+My path to becoming an Academically Trained Aural Tuner & Technician was a demanding and humbling process. It taught me that tuning is not about imposing a standard, but about being a steward of your piano’s voice. I am here to ensure that your instrument does not just meet a technical specification, but finds its most resonant and inspiring soul.
