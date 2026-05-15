@@ -1,7 +1,7 @@
 Academically Trained Aural Piano Tuner and Technician
 Alex Chen delivers the finest aural tuning, bringing the ultimate artistry and handcrafted precision to your piano
 
-![Driving after rain](1.jpg)
+![Driving after rain](1.jpg)<img src="1.jpg" width="300px">
 
 Beyond Mathematics: The Soul of Aural Tuning
 "If aural tuning exists to please the human ear, then machine tuning is there to gratify mathematics." This philosophy guides every movement of my tuning lever. In an age of digital convenience, I believe that for the professionally trained musician, true aural tuning is not a luxury—it is a vital necessity.
