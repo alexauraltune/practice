@@ -3,7 +3,9 @@
 
 <p align="center">Alex Chen delivers the finest aural tuning, bringing the ultimate artistry and handcrafted precision to your piano</p>
 
+
 <div align="center"><img src="1.jpg" width="333px"></div>
+
 
 <p align="center">Beyond Mathematics: The Soul of Aural Tuning</p>
 
